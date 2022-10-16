@@ -1,5 +1,6 @@
 # PoGo-TG-nestbot
-Telegram Bot for automated postings of Pokemon Go nests.
+Telegram Bot for automated postings of Pokemon Go nests.  
+
 ![pogo-tg-nestbot](assets/example.png?raw=true)
 
 ### Prerequisites
